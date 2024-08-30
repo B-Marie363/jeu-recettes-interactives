@@ -1,2 +1,37 @@
-# jeu-recettes-interactives
-Jeu interactif de recettes pour mon blog
+# Jeu de Recettes Interactives 🎮🍲
+
+Bienvenue dans le projet **Jeu de Recettes Interactives** ! Ce jeu éducatif te permet de découvrir des recettes de cuisine tout en jouant. Apprends à préparer des plats délicieux de manière amusante et engageante.
+
+## 🎯 Objectif du Projet
+Le but de ce jeu est de créer une expérience interactive où les utilisateurs peuvent explorer différentes recettes, choisir des ingrédients, et suivre les étapes de préparation. C'est une manière ludique d'apprendre à cuisiner et de s'amuser en même temps.
+
+## 🛠 Fonctionnalités
+- **Exploration des Recettes** : Choisis parmi une variété de recettes et découvre les ingrédients nécessaires.
+- **Instructions Interactives** : Suis les étapes de préparation de manière interactive.
+- **Personnalisation** : Adapte les recettes en fonction de tes préférences et restrictions alimentaires.
+- **Test de Connaissances** : Réponds à des quiz pour vérifier ta compréhension des recettes.
+
+## 🚀 Comment Utiliser
+1. **Accéder au Jeu** : Clique sur [ce lien](https://tonnom.github.io/jeu-recettes-interactives/) pour accéder au jeu hébergé sur GitHub Pages.
+2. **Naviguer** : Utilise le menu pour explorer les différentes recettes disponibles.
+3. **Suivre les Instructions** : Sélectionne une recette et suis les instructions interactives pour préparer le plat.
+4. **Personnaliser** : Modifie les ingrédients et les étapes en fonction de tes préférences.
+
+## 📝 Comment Contribuer
+Si tu souhaites contribuer au projet, voici comment faire :
+1. **Forker le Repository** : Clique sur le bouton "Fork" en haut à droite pour créer une copie du dépôt dans ton propre compte GitHub.
+2. **Faire des Modifications** : Apporte tes modifications dans ta copie du dépôt.
+3. **Créer une Pull Request** : Propose tes changements en créant une pull request sur le dépôt principal.
+
+## 📫 Contact
+- **Twitter (X)** : @mariebuteau9
+
+## 🔧 Technologies Utilisées
+- **HTML** : Structure du jeu.
+- **CSS** : Mise en page et styles.
+- **JavaScript** : Logique du jeu et interactions.
+
+## ⚡ Fait Amusant
+Saviez-vous que les recettes que vous découvrez dans ce jeu sont basées sur des plats réels que j'aime préparer ?
+
+Merci de votre intérêt pour le **Jeu de Recettes Interactives**. J'espère que vous vous amuserez à explorer et à préparer ces recettes !
